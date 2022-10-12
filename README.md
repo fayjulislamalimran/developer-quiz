@@ -1,6 +1,6 @@
 # QuizMaster React Application
 
-github link :
+github link : https://github.com/programming-hero-web-course2/b6-quiz-crackerz-fayjulislamalimran
 
 Live Website Link :
 
