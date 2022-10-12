@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from "react";
 import { useLoaderData } from "react-router-dom";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, Legend, CartesianGrid } from "recharts";
 
